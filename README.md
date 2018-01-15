@@ -56,7 +56,7 @@ Alexander Feiglstorfer ([github](https://github.com/onefriendaday))
 web [storyblok.com](https://www.storyblok.com), twitter: [storyblok](https://twitter.com/storyblok), github: [storyblok](https://github.com/storyblok)
 
 
-ruby used for (backend) web services and content service tool
+ruby used for (backend) web services and content service tools / samples
 
 
 
