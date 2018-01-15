@@ -5,22 +5,25 @@ All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Langua
 
 
 
+
 ## Companies
 
 ### Runtastic
 
 Wien Linz (Pasching) -- Sports / Health  -- Large-Size (100+)  - Owned (Bought) by Adidas Since 2016
 
-People: 
-
+People: Simon Lasselsberger ([github](https://github.com/lister), [twitter](https://twitter.com/lasssim)),
+Andreas Altendorfer ([github](https://github.com/iboard), [twitter](nickendell)),
+Georg Gadinger ([github](https://github.com/nilsding), [twitter](https://twitter.com/nilsding))
 
 > We're your ideal health & fitness partner - here to support your efforts, no matter which fitness activities you enjoy most.
 > Download our mobile apps today to track your activities, monitor progress and reach your goals!
 
-web: [runtastic.com](https://www.runtastic.com), twitter: [runtastic](https://twitter.com/runtastic)
+web: [runtastic.com](https://www.runtastic.com), twitter: [runtastic](https://twitter.com/runtastic), github: [runtastic](https://github.com/runtastic)
 
 
 ruby (jruby) used for (backend) web services and (desktop) web apps
+
 
 
 
@@ -28,7 +31,8 @@ ruby (jruby) used for (backend) web services and (desktop) web apps
 
 Wien  -- Construction -- Mid-Size (20+)   - Indie
 
-People: 
+People:
+Constantin Köck ([github](https://github.com/koeckc), [twitter](https://twitter.com/koeckc))
 
 > Create, organize and assign construction defects with your mobile device
 > or with the PlanRadar Web application and collaborate with all project members!
@@ -42,9 +46,9 @@ ruby used for (backend) web services and (desktop) web apps
 
 Linz -- Media  - Small-Size       -- Owned by Media Agency ? (Add Name Here)
 
-People:  
-[Dominik Angerer](https://github.com/DominikAngerer) - [@DominikAngerer1](https://twitter.com/DominikAngerer1), 
-[Alexander Feiglstorfer](https://github.com/onefriendaday)
+People:
+Dominik Angerer ([github](https://github.com/DominikAngerer), [twitter](https://twitter.com/DominikAngerer1)),
+Alexander Feiglstorfer ([github](https://github.com/onefriendaday))
 
 > Not only a Content Management System (CMS) for your editors. 
 > Clean and structured JSON for you as developer mixed with other services to get you rolling.
