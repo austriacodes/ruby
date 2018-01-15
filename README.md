@@ -13,7 +13,7 @@ All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Langua
 Wien Linz (Pasching) -- Sports / Health  -- Large-Size (100+)  - Owned (Bought) by Adidas Since 2016
 
 People: Simon Lasselsberger ([github](https://github.com/lister), [twitter](https://twitter.com/lasssim)),
-Andreas Altendorfer ([github](https://github.com/iboard), [twitter](nickendell)),
+Andreas Altendorfer ([github](https://github.com/iboard), [twitter](https://twitter.com/nickendell)),
 Georg Gadinger ([github](https://github.com/nilsding), [twitter](https://twitter.com/nilsding))
 
 > We're your ideal health & fitness partner - here to support your efforts, no matter which fitness activities you enjoy most.
