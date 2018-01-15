@@ -7,7 +7,7 @@ All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Langua
 
 ## Companies
 
-***Runtastic** - web: [runtastic.com](https://www.runtastic.com), twitter: [runtastic](https://twitter.com/runtastic)
+### Runtastic
 
 Wien Linz (Pasching) -- Sports / Health  -- Large-Size (100+)  - Owned (Bought) by Adidas Since 2016
 
@@ -17,11 +17,14 @@ People:
 > We're your ideal health & fitness partner - here to support your efforts, no matter which fitness activities you enjoy most.
 > Download our mobile apps today to track your activities, monitor progress and reach your goals!
 
+web: [runtastic.com](https://www.runtastic.com), twitter: [runtastic](https://twitter.com/runtastic)
+
+
 ruby (jruby) used for (backend) web services and (desktop) web apps
 
 
 
-**PlanRadar** - web [planradar.com](https://www.planradar.com), twitter: [planradar](https://twitter.com/PlanRadar)
+### PlanRadar
 
 Wien  -- Construction -- Mid-Size (20+)   - Indie
 
@@ -30,11 +33,12 @@ People:
 > Create, organize and assign construction defects with your mobile device
 > or with the PlanRadar Web application and collaborate with all project members!
 
-
+web [planradar.com](https://www.planradar.com), twitter: [planradar](https://twitter.com/PlanRadar)
 
 ruby used for (backend) web services and (desktop) web apps
 
-**Storyblok**  - web [storyblok.com](https://www.storyblok.com), twitter: [storyblok](https://twitter.com/storyblok), github: [storyblok](https://github.com/storyblok)
+
+### Storyblok
 
 Linz -- Media  - Small-Size       -- Owned by Media Agency ? (Add Name Here)
 
@@ -45,6 +49,11 @@ People:
 > Not only a Content Management System (CMS) for your editors. 
 > Clean and structured JSON for you as developer mixed with other services to get you rolling.
 
+web [storyblok.com](https://www.storyblok.com), twitter: [storyblok](https://twitter.com/storyblok), github: [storyblok](https://github.com/storyblok)
+
+
 ruby used for (backend) web services and content service tool
 
 
+
+Add your company!
