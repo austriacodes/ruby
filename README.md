@@ -101,3 +101,19 @@ ruby used for (backend) web services and content service tools / samples
 
 
 Add your company!
+
+
+
+## Freelance / Services
+
+Wien
+
+**Aaron Cruz**
+([web](http://aaroncruz.com), [github](https://github.com/mraaroncruz), [twitter](https://twitter.com/mraaroncruz)) - ruby services, messaging/chat bots, etc.
+
+**Thomas Leitner**
+([web](https://gettalong.org/), [github](https://github.com/gettalong), [twitter](https://twitter.com/_gettalong)) - portable document format (pdf) services (hexapdf)
+
+
+
+Add your services!
