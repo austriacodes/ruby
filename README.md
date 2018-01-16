@@ -3,7 +3,7 @@
 All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Language  - The Programmer's Best Friend 
 
 
-## Meetups & Learning Togethers
+## Meetups & Learn Togethers
 
 _Wien_
 
