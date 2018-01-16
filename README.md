@@ -59,7 +59,7 @@ Constantin Köck ([github](https://github.com/koeckc), [twitter](https://twitter
 > Create, organize and assign construction defects with your mobile device
 > or with the PlanRadar Web application and collaborate with all project members!
 
-web [planradar.com](https://www.planradar.com), twitter: [planradar](https://twitter.com/PlanRadar)
+web: [planradar.com](https://www.planradar.com), twitter: [planradar](https://twitter.com/PlanRadar)
 
 ruby used for (backend) web services and (desktop) web apps
 
@@ -73,7 +73,7 @@ People:  Clemens Helm ([github](https://github.com/clemenshelm), [twitter](https
 > Never type in bills (invoices) again. Upload and let your computer (artificial intelligence)
 > handle your bills (invoices).
 
-web [chillbill.co](https://www.chillbill.co)
+web: [chillbill.co](https://www.chillbill.co)
 
 ruby used for (backend) web services and (desktop) web apps
 
@@ -93,7 +93,7 @@ Alexander Feiglstorfer ([github](https://github.com/onefriendaday))
 > Not only a Content Management System (CMS) for your editors. 
 > Clean and structured JSON for you as developer mixed with other services to get you rolling.
 
-web [storyblok.com](https://www.storyblok.com), twitter: [storyblok](https://twitter.com/storyblok), github: [storyblok](https://github.com/storyblok)
+web: [storyblok.com](https://www.storyblok.com), twitter: [storyblok](https://twitter.com/storyblok), github: [storyblok](https://github.com/storyblok)
 
 
 ruby used for (backend) web services and content service tools / samples
