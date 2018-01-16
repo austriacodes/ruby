@@ -12,7 +12,8 @@ _Wien_
 **Ruby Habits** (web: [rubyhabits.github.io](http://rubyhabits.github.io), twitter: [rubyhabits](https://twitter.com/rubyhabits), github: [RubyHabits](https://github.com/RubyHabits)) - ruby and friends study group
 
 
-**Crypto Ruby** @ RIAT  -  cryptocurrencies and blockchains meetups for ruby and friends ???
+**Crypto Ruby** @ RIAT  -  cryptocurrencies and blockchains meetup for ruby and friends ???
+
 
 _Linz_
 
@@ -22,7 +23,7 @@ _Linz_
 
 ## Special Events
 
-**European Ruby Konference (EuRuKo) 2018** (web: [euruko.org](https://euruko.org), twitter: [euruko](https://twitter.com/euruko)) - Upcoming in summer in Vienna, Austria
+**European Ruby Konference (EuRuKo) 2018** (web: [euruko.org](https://euruko.org), twitter: [euruko](https://twitter.com/euruko)) - Upcoming in summer 2018 in Vienna, Austria
 
 
 
