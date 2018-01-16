@@ -59,7 +59,7 @@ ruby used for (backend) web services and (desktop) web apps
 
 ### Storyblok
 
-Linz -- Media  -- Small-Size       - Owned by Media Agency ? (Add Name Here)
+Linz -- Media  -- Small-Size
 
 People:
 Dominik Angerer ([github](https://github.com/DominikAngerer), [twitter](https://twitter.com/DominikAngerer1)),
