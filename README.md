@@ -46,9 +46,10 @@ ruby used for (backend) web services and (desktop) web apps
 
 Wien -- Accounting  -- Small-Size  
 
-People:  Clemens Helm ([github](https://github.com/clemenshelm), [clemenshelm](https://twitter.com/clemenshelm))
+People:  Clemens Helm ([github](https://github.com/clemenshelm), [twitter](https://twitter.com/clemenshelm))
 
-> Let's your computer (artificial intelligence) handle your bills (invoices).
+> Never type in bills (invoices) again. Upload and let your computer (artificial intelligence)
+> handle your bills (invoices).
 
 web [chillbill.co](https://www.chillbill.co)
 
