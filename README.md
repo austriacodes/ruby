@@ -42,6 +42,20 @@ web [planradar.com](https://www.planradar.com), twitter: [planradar](https://twi
 ruby used for (backend) web services and (desktop) web apps
 
 
+### ChillBill
+
+Wien -- Accounting  -- Small-Size  
+
+People:  Clemens Helm ([github](https://github.com/clemenshelm), [clemenshelm](https://twitter.com/clemenshelm))
+
+> Let's your computer (artificial intelligence) handle your bills (invoices).
+
+web [chillbill.co](https://www.chillbill.co)
+
+ruby used for (backend) web services and (desktop) web apps
+
+
+
 ### Storyblok
 
 Linz -- Media  -- Small-Size       - Owned by Media Agency ? (Add Name Here)
