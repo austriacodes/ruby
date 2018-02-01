@@ -68,6 +68,10 @@ ruby used for (backend) web services and (desktop) web apps
 
 Wien  -- Knowledge / Creative -- Mid-Size (20+)
 
+People:
+Laura Bârlădeanu ([twitter](https://twitter.com/bulinutz))
+
+
 > MindMeister is the market-leader in collaborative online mind mapping. 
 > Combine it with MeisterTask for a complete workflow from first idea to finished project.
 
