@@ -64,6 +64,20 @@ web: [planradar.com](https://www.planradar.com), twitter: [planradar](https://tw
 ruby used for (backend) web services and (desktop) web apps
 
 
+### MeisterLabs
+
+Wien  -- Knowledge / Creative -- Mid-Size (20+)
+
+> MindMeister is the market-leader in collaborative online mind mapping. 
+> Combine it with MeisterTask for a complete workflow from first idea to finished project.
+
+web: [meisterlabs.com](https://www.meisterlabs.com), 
+twitter: [mindmeister](https://twitter.com/mindmeister), [meistertask](https://twitter.com/meistertask)
+
+ruby used for backend web services
+
+
+
 ### ChillBill
 
 Wien -- Accounting  -- Small-Size  
