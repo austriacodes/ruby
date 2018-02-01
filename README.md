@@ -72,7 +72,8 @@ Wien  -- Knowledge / Creative -- Mid-Size (20+)
 > Combine it with MeisterTask for a complete workflow from first idea to finished project.
 
 web: [meisterlabs.com](https://www.meisterlabs.com), 
-twitter: [mindmeister](https://twitter.com/mindmeister), [meistertask](https://twitter.com/meistertask)
+twitter: [mindmeister](https://twitter.com/mindmeister), [meistertask](https://twitter.com/meistertask),
+github: [MeisterLabs](https://github.com/MeisterLabs)
 
 ruby used for backend web services
 
@@ -102,7 +103,7 @@ Linz -- Media  -- Small-Size
 
 People:
 Dominik Angerer ([github](https://github.com/DominikAngerer), [twitter](https://twitter.com/DominikAngerer1)),
-Alexander Feiglstorfer ([github](https://github.com/onefriendaday))
+Alexander Feiglstorfer ([github](https://github.com/onefriendaday), [twitter](https://twitter.com/feiglstorfer))
 
 > Not only a Content Management System (CMS) for your editors. 
 > Clean and structured JSON for you as developer mixed with other services to get you rolling.
