@@ -119,6 +119,24 @@ ruby used for (backend) web services and content service tools / samples
 
 
 
+### LingoHub
+
+Linz -- Translation Services -- Small-Size
+
+People:
+Helmut Michael Juskewycz ([github](https://github.com/hemju), [twitter](https://twitter.com/hemju))
+
+> Web & mobile software localization without headaches. 
+> Best Github sync on the market. Lean Translation Management for devs. 
+> Be Global, Go Local #L10n #i18n
+
+web: [lingohub.com](https://lingohub.com), 
+twitter: [lingohub](https://twitter.com/lingohub), 
+github: [lingohub](https://github.com/lingohub)
+
+ruby used for (future) backend services
+
+
 Add your company!
 
 
