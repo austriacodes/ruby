@@ -1,3 +1,6 @@
+[Vienna.rb @ Github](https://github.com/viennarb)
+
+
 # Vienna.rb • Wien.rb 
 
 All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Language  - The Programmer's Best Friend 
@@ -131,7 +134,7 @@ github: [lingohub](https://github.com/lingohub)
 ruby used for (future) backend services
 
 
-Add your company!
+[Add your company!](https://github.com/viennarb/viennarb.github.io)
 
 
 
@@ -147,4 +150,4 @@ Wien
 
 
 
-Add your services!
+[Add your services!](https://github.com/viennarb/viennarb.github.io)
