@@ -1,6 +1,3 @@
-[Vienna.rb @ Github](https://github.com/viennarb)
-
-
 # Vienna.rb • Wien.rb 
 
 All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Language  - The Programmer's Best Friend 
