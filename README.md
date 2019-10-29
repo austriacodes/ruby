@@ -1,4 +1,4 @@
-# Vienna.rb • Wien.rb 
+# Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria
 
 All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Language  - The Programmer's Best Friend 
 
