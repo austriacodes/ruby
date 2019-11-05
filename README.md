@@ -11,7 +11,6 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming
 
-- Tuesday, November 5th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, December 3rd, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
@@ -19,12 +18,40 @@ If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, c
 or something).
 Calculate about €3 or €4.
 
+Past
+
+- Tuesday, November 5th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
+
+## News
+
+
+Nov/2019 -  [Ramón Huidobro](https://ramonh.dev) and friends host a twice a month (free, everyone welcome especially programming beginners / newbies) programming study group / learn together right here in Vienna, Austria. See [Study Jams](https://study-jams.github.io) for more.
+
+Nov/2019 - Gerald Bauer and friends host a once a month (free, everyone welcome)
+crypto (and blockchain contract) programming study group / learn together right here in
+Vienna, Austria. See [Vienna Crypto Programming Meetup / Stammtisch](https://viennacrypto.github.io/) for more.
+
+Oct/2019 -  [Developer Melange](https://developermelange.github.io) is a monthly podcast / talk recording in
+a Vienna coffee house. In episode 21 guest Gerald Bauer
+talks about ["Programmable Money"](https://developermelange.github.io/021-programmable-money/) and in episode 22 about
+["The state of open data - or where to find good beer"](https://developermelange.github.io/022-state-of-open-data/).  
+
+Oct/2019 - [Thomas Leitner](https://gettalong.org) has released the latest version of HexaPDF,
+with many bug fixes and a completely revamped PDF inspection command.
+The HexaPDF website has also been redone for a better experience.
+[Read more »](https://hexapdf.gettalong.org/news/2019/hexapdf-0-10-0-and-new-website.html).
+
+Oct/2019 - Gerald Bauer has put together the [footballdb-leagues gem / library](https://github.com/sportdb/sport.db/tree/master/footballdb-leagues) that bundles-up an [all-in-one football.db / leagues datafile](https://github.com/sportdb/sport.db/blob/master/footballdb-leagues/config/leagues.txt) and lets you match 100+ football league & cup names from around the world "out-of-the-gem / box" with zero-configuration. It's as easy as `require 'footballdb/league'; League.match('ENG PL')`. Enjoy the beautiful game.  PS: Trivia Quiz: What league will `League.match( 'NB I' )` match?
+
+
+[Add your news byte!](https://github.com/viennarb/viennarb.github.io)
 
 
 
 ## Companies in Austria • Österreich
 
-### Runtastic
+### Runtastic  (officially now Adidas Running / Training by Runtastic) 
 
 Wien Linz (Pasching) -- Sports / Health  -- Large-Size (100+)  - Owned (Bought) by Adidas Since 2016
 
