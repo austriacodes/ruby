@@ -1,5 +1,7 @@
 # Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria
 
+[Vienna.rb @ GitHub](https://github.com/viennarb)
+
 All About Ruby & Friends - The Dynamic General Pragmatic "Multi-Paradigm" Language  - The Programmer's Best Friend 
 
 
@@ -11,7 +13,7 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming
 
-- Tuesday, December 3rd, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Tuesday, December 3rd, 2019, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
