@@ -11,9 +11,12 @@ _Wien_
 
 We meetup every first Tuesday in a coffee house to contribute to open source, work on personal projects, and teach and learn from one another. Join us.
 
-Upcoming
+Upcoming 
 
-- **Tuesday, December 3rd, 2019, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Tuesday, January 7th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- Tuesday, February 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- Tuesday, March 3rd, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
@@ -22,11 +25,13 @@ Calculate about €3 or €4.
 
 Past
 
+Happy New Year - Prosit 2020!
+
+- Tuesday, December 3rd, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, November 5th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 
 ## News
-
 
 Nov/2019 -  [Ramón Huidobro](https://ramonh.dev) and friends host a twice a month (free, everyone welcome especially programming beginners / newbies) programming study group / learn together right here in Vienna, Austria. See [Study Jams](https://study-jams.github.io) for more.
 
