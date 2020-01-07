@@ -34,7 +34,7 @@ Happy New Year - Prosit 2020!
 
 ## News
 
-Jan/2019 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
+Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
 Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g.
 
     $ rubyconf
