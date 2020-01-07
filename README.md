@@ -13,8 +13,7 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming 
 
-- **Tuesday, January 7th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-- Tuesday, February 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Tuesday, February 4th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, March 3rd, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 
@@ -25,6 +24,8 @@ Calculate about €3 or €4.
 
 Past
 
+- Tuesday, January 7th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
 Happy New Year - Prosit 2020!
 
 - Tuesday, December 3rd, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
@@ -32,6 +33,35 @@ Happy New Year - Prosit 2020!
 
 
 ## News
+
+Jan/2019 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
+Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g.
+
+    $ rubyconf
+
+printing as of Jan/2:
+
+    Upcoming Ruby Conferences:
+    
+    in 29d   Birmingham on Rails, Fri Jan/31 (1d) @ Birmingham, Alabama, United States
+    in 35d   Rubyfuza, Thu-Sat Feb/6-8 (3d) @ Cape Town, South Africa
+    in 47d   ParisRB Conf, Tue+Wed Feb/18+19 (2d) @ Paris, France
+    in 49d   RubyConf Australia, Thu+Fri Feb/20+21 (2d) @ Melbourne, Victoria, Australia
+    in 78d   Wrocław <3 Ruby (wroclove.rb), Fri-Sun Mar/20-22 (3d) @ Wrocław, Poland
+    in 91d   RubyDay Italy, Thu Apr/2 (1d) @ Verona, Veneto, Italy
+    in 98d   RubyKaigi, Thu-Sat Apr/9-11 (3d) @ Nagano, Japan
+    in 114d  RubyConf India, Sat+Sun Apr/25+26 (2d) @ Goa, India
+    in 124d  RailsConf (United States), Tue-Thu May/5-7 (3d) @ Portland, Oregon, United States
+    in 134d  Balkan Ruby, Fri+Sat May/15+16 (2d) @ Sofia, Bulgaria
+    in 156d  Ruby Unconf Hamburg, Sat+Sun Jun/6+7 (2d) @ Hamburg, Germany
+    in 183d  Brighton RubyConf, Fri Jul/3 (1d) @ Brighton, Sussex, England, United Kingdom
+    in 203d  RubyConf Kenya, Thu-Sat Jul/23-25 (3d) @ Nairobi, Kenya
+    in 232d  European Ruby Konference (EuRuKo), Fri+Sat Aug/21+22 (2d) @ Helsinki, Finnland
+    in 288d  RubyConf Thailand (TH), Fri+Sat Oct/16+17 (2d) @ Bangkok, Thailand
+    in 320d  RubyConf (United States), Tue-Thu Nov/17-19 (3d) @ Houston, Texas, United States
+
+Dec/2019 - Ruby 2.7 is out. [What's News? Insider's Commentary by Full Time Ruby Committers
+Koichi Sasada and Yusuke Endoh](https://sourcediving.com/ruby-2-7-news-commentary-by-cookpads-full-time-ruby-comitters-bdbaacb36d0c).
 
 Nov/2019 -  [Ramón Huidobro](https://ramonh.dev) and friends host a twice a month (free, everyone welcome especially programming beginners / newbies) programming study group / learn together right here in Vienna, Austria. See [Study Jams](https://study-jams.github.io) for more.
 
