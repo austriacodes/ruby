@@ -109,7 +109,7 @@ ruby (jruby) used for (backend) web services and (desktop) web apps
 
 ### PlanRadar
 
-Wien  -- Construction -- Mid-Size (20+)   - Indie
+Wien  -- Construction -- Mid-Size (80+)   - Indie
 
 People:
 Constantin Köck ([github](https://github.com/koeckc), [twitter](https://twitter.com/koeckc))
