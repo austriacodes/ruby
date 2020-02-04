@@ -44,11 +44,12 @@ Feb/2020 - Gerald Bauer has put together a new `News` module that offers easy to
 for [building your own newsreader or newsfeeds in minutes](https://github.com/feedreader/pluto/tree/master/pluto-news) in two easy steps, that is, `News.subscribe` and `News.update`.
 
 <details markdown="1">
-
-<summary markdown="1">    
-Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
-Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g. $ rubyconf
-
+<summary>
+<!-- note: fix - cannot use markdown in summary for now; commonmark requires leading blank lines; just use (inline) html for now -->
+Jan/2020 - Gerald Bauer has updated the 
+<a href="http://planetruby.github.io/calendar/2020">Ruby Conferences & Camps in 2020 - What's Upcoming?</a> 
+page. Bonus: Try the <a href="https://github.com/textkit/whatson">rubyconf command line tool</a> - packaged up in the whatson gem -  
+e.g. type <code>$ rubyconf</code>
 </summary>
 
 printing as of Jan/2:
