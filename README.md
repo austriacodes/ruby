@@ -45,8 +45,10 @@ for [building your own newsreader or newsfeeds in minutes](https://github.com/fe
 
 <details markdown="1">
 <summary markdown="1">
+
 Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
 Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g. $ rubyconf
+
 </summary>
 
 printing as of Jan/2:
