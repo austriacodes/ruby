@@ -13,8 +13,7 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming 
 
-- **Tuesday, February 4th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-- Tuesday, March 3rd, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Tuesday, March 3rd, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 
 Note: We meetup in a public coffee house. 
@@ -22,8 +21,11 @@ If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, c
 or something).
 Calculate about €3 or €4.
 
-Past
 
+<details markdown="1">
+<summary>Past</summary>
+
+- Tuesday, February 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, January 7th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Happy New Year - Prosit 2020!
@@ -31,13 +33,18 @@ Happy New Year - Prosit 2020!
 - Tuesday, December 3rd, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, November 5th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
+</details>
+
+
 
 ## News
 
-Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
-Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g.
+Feb/2020
 
-    $ rubyconf
+<details markdown="1">
+<summary>Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's
+Upcoming?](http://planetruby.github.io/calendar/2020) page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) (packaged up in the whatson gem) e.g. $ rubyconf
+</summary>
 
 printing as of Jan/2:
 
@@ -59,6 +66,9 @@ printing as of Jan/2:
     in 232d  European Ruby Konference (EuRuKo), Fri+Sat Aug/21+22 (2d) @ Helsinki, Finnland
     in 288d  RubyConf Thailand (TH), Fri+Sat Oct/16+17 (2d) @ Bangkok, Thailand
     in 320d  RubyConf (United States), Tue-Thu Nov/17-19 (3d) @ Houston, Texas, United States
+
+</details>
+
 
 Dec/2019 - Ruby 2.7 is out. [What's News? Insider's Commentary by Full Time Ruby Committers
 Koichi Sasada and Yusuke Endoh](https://sourcediving.com/ruby-2-7-news-commentary-by-cookpads-full-time-ruby-comitters-bdbaacb36d0c).
