@@ -40,15 +40,14 @@ Happy New Year - Prosit 2020!
 ## News
 
 Mar/2020 - Gerald Bauer has put together a new `rubynews` tool that lets you [browse ruby project news and personal blogs week by
-week on the command line](https://github.com/planetruby/planet). 36 channels, 1464 items and counting.
+week on the command line (in your terminal)](https://github.com/planetruby/planet). 36 channels, 1464 items and counting.
 
 Feb/2020 - Gerald Bauer has put together a new `News` module that offers easy to (re)use
 "porcelain" helpers / methods that hide the "plumbing" of the pluto machinery 
 for [building your own newsreader or newsfeeds in minutes](https://github.com/feedreader/news.rb) in two easy steps, that is, `News.subscribe` and `News.update`.
 
 Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's Upcoming?](http://planetruby.github.io/calendar/2020) 
-page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) packaged up in the whatson gem -  
-e.g. type <code>$ rubyconf</code>.
+page. Bonus: Try the [rubyconf command line tool (in your terminal)](https://github.com/textkit/whatson) packaged up in the whatson gem - e.g. type `$ rubyconf`.
 
 Dec/2019 - Ruby 2.7 is out. [What's News? Insider's Commentary by Full Time Ruby Committers
 Koichi Sasada and Yusuke Endoh](https://sourcediving.com/ruby-2-7-news-commentary-by-cookpads-full-time-ruby-comitters-bdbaacb36d0c).
