@@ -13,8 +13,7 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming 
 
-- **Tuesday, March 3rd, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-
+- **Tuesday, April 7th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
@@ -25,6 +24,7 @@ Calculate about €3 or €4.
 <details markdown="1">
 <summary>Past</summary>
 
+- Tuesday, March 3rd, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, February 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Tuesday, January 7th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
@@ -39,9 +39,12 @@ Happy New Year - Prosit 2020!
 
 ## News
 
+Mar/2020 - Gerald Bauer has put together a new `rubynews` tool that lets you [browse ruby project news and personal blogs week by
+week on the command line](https://github.com/planetruby/planet). 36 channels, 1464 items and counting.
+
 Feb/2020 - Gerald Bauer has put together a new `News` module that offers easy to (re)use
 "porcelain" helpers / methods that hide the "plumbing" of the pluto machinery 
-for [building your own newsreader or newsfeeds in minutes](https://github.com/feedreader/pluto/tree/master/pluto-news) in two easy steps, that is, `News.subscribe` and `News.update`.
+for [building your own newsreader or newsfeeds in minutes](https://github.com/feedreader/news.rb) in two easy steps, that is, `News.subscribe` and `News.update`.
 
 Jan/2020 - Gerald Bauer has updated the [Ruby Conferences & Camps in 2020 - What's Upcoming?](http://planetruby.github.io/calendar/2020) 
 page. Bonus: Try the [rubyconf command line tool](https://github.com/textkit/whatson) packaged up in the whatson gem -  
