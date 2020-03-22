@@ -13,7 +13,7 @@ We meetup every first Tuesday in a coffee house to contribute to open source, wo
 
 Upcoming 
 
-- **Tuesday, April 7th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **CANCELED! Due to Corona COVID-19 - Stay Home, Stay Healthy, Wash Hands** Tuesday, April 7th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
